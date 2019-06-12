@@ -163,5 +163,4 @@ Speed up one-time builds
 Do not reject slow dependency extractors.
 
 ## Nested Packages
-
-
+The command configure --help=recursive can be used to display the options supported by all the included packages.
